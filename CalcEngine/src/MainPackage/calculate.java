@@ -1,3 +1,7 @@
+/*
+ * Author Zulfiqar Salahuddin
+ */
+
 package MainPackage;
 
 public class calculate {

@@ -1,3 +1,7 @@
+/*
+ * Author Zulfiqar Salahuddin
+ */
+
 package MainPackage;
 
 import java.awt.EventQueue;
